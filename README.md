@@ -7,4 +7,4 @@ This site provides drink recipes.
 
 # **💻 Stack:**
 
-I used React and an API to fetch all the drinks, recipes and pictures.
+I used React, Tailwind and an API to fetch all the drinks, recipes and pictures.
